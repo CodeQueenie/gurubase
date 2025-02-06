@@ -1,3 +1,16 @@
+## My Learning Journey
+
+This project has been instrumental in enhancing my proficiency with modern development tools and methodologies. Below is a summary of the key technical skills and insights I gained:
+
+- **Docker Setup:**  
+  I successfully installed and configured Docker Desktop, which enabled efficient management of containerized applications.
+
+- **WSL & Linux Environment:**  
+  I upgraded from WSL1 to WSL2 and established a complete Linux environment on Windows, demonstrating my ability to work across platforms.
+
+- **Technical Fundamentals:**  
+  I gained practical experience in managing environment variables, securely handling API keys, and leveraging Git/GitHub for version control.
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/Gurubase/gurubase/refs/heads/master/imgs/gurubase-light-logo.svg#gh-light-mode-only" alt="Gurubase Light Logo" width="300px" />
     <img src="https://raw.githubusercontent.com/Gurubase/gurubase/refs/heads/master/imgs/gurubase-dark-logo.svg#gh-dark-mode-only" alt="Gurubase Dark Logo" width="300px" /><br/><br />

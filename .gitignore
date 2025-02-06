@@ -1,0 +1,20 @@
+# Ignore the Gurubase configuration folder that contains sensitive API keys
+.gurubase/
+
+# Ignore any .env files that might contain environment-specific variables
+*.env
+
+# Ignore Node.js dependencies (if applicable for the Next.js frontend)
+node_modules/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
+# Ignore operating system specific files
+.DS_Store
+Thumbs.db
